@@ -31,8 +31,7 @@ The application is built using **React.js** and **Tailwind CSS**, featuring a mo
 *   **Date/Time:** Luxon
 
 ## 📸 Screenshots
-*(Add a screenshot of your dashboard here. Example: Save an image as screenshot.png in your repo and uncomment the line below)*
-<!-- ![Dashboard Preview](./screenshot.png) -->
+ ![Dashboard Preview](./screenshot.png) 
 
 ## ⚙️ Installation & Setup
 
